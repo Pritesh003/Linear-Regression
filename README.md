@@ -1,1 +1,1 @@
-
+A Linear Regression model using sklearn is discussed. The dataset used is the collection of the prices of second hand car based on various features. A statistical analysis of the dataset is done using linear regression. It is just a basic model to understand how to apply Linear Regression using sklearn and further improvements can be done in the model.
